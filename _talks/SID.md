@@ -10,6 +10,6 @@ location: "Orlando, FL"
 ---
 
 **View poster here**
-<img src="../images/SID-Poster.png" alt="Description" width="1200" height="1600">
+<img src="../images/SID-Poster.png" alt="Description" width="1000" height="1500">
 
 [**View poster here**](../images/SID-Poster.png "SID Poster")
