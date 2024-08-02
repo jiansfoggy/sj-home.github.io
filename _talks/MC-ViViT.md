@@ -9,7 +9,7 @@ slidesurl: 'http://academicpages.github.io/files/MC-ViViT-Poster.pdf'
 location: "Denver, CO"
 ---
 
-[**View poster here**](http://academicpages.github.io/files/MC-ViViT-Poster.pdf)
+[**View poster here**](MC-ViViT-Poster.pdf)
 
 <embed src="http://academicpages.github.io/files/MC-ViViT-Poster.pdf" type="application/pdf">
 
