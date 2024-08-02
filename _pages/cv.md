@@ -13,30 +13,46 @@ redirect_from:
 
 <a href="../files/JS-CV.pdf" target="_blank">**View PDF here**</a>
 
-
 Education
 ======
 * Ph.D in Computer Science, University of Denver, 2018 -- Present
 * M.S. in Statistics, The George Washington University, 2017
 * B.S. in Mathematics and Applied Mathematics, Shandong Agricultural University, 2014
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Conferences
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023 – January 2024: Project Supervisor
+  * 2023 Vision and Robotic Lab Summer Research in the University of Denver 
+  * Denver, CO                                                             
+  * Duties included:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2022 – August 2022: Software Engineering Intern
+  * Dream Face Technologies, LLC
+  * Denver, CO   
+  * Duties included:                                                                                            
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* July 2019 – August 2019: Computer Vision Engineer Intern
+  * Tsinghua University Big Data Laboratory at Qingdao Center
+  * Qingdao, China     
+  * Duties included:                                    
+
+* July 2017 – January 2018: Placement Intern, Data Analyst
+  * United States Peace Corps
+  * Washington, DC    
+  * Duties included:                                                                                                
+
 Skills
 ======
 * Skill 1
@@ -46,18 +62,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
