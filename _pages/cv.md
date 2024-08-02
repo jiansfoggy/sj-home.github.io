@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**View PDF here**](../files/JS-CV.pdf){:target="_blank"}
-
-<a href="../files/JS-CV.pdf" target="_blank">**View PDF here**</a>
+Click <a href="../files/JS-CV.pdf" target="_blank">**here**</a> to read PDF file.
 
 Education
 ======
