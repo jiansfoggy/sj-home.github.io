@@ -21,10 +21,6 @@ Suicide Intention Detection, Natural Language Processing, RoBERTa, CNN, Data Qua
 - We used OpenAI API to clean up the dataset due to the key of data quality in training RoBERTa-CNN.
 
 **BibTex:**
-```python
-print('Hello World!')
-```
-
 ```markdown
 @article{lin2024data,
   title={Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model},

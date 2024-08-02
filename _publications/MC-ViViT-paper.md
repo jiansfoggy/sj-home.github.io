@@ -21,7 +21,7 @@ Deep learning, Facial expression features, Inter- and intra-class imbalance, Mil
 - We develop the HP loss by combining Focal loss and AD-CORRE loss. The HP loss addresses the inter- and intra-class imbalanced issues and helps the model pay attention to classes with less samples and subjects with short video lengths.
 
 **BibTex:**
-```web
+```markdown
 @article{sun2024mc,
   title={MC-ViViT: Multi-branch Classifier-ViViT to detect Mild Cognitive Impairment in older adults using facial videos},
   author={Sun, Jian and Dodge, Hiroko H and Mahoor, Mohammad H},

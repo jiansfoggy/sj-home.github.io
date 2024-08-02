@@ -21,7 +21,7 @@ CapsNet, XNOR-Net, Dynamic routing, Binarization, Xnorization, Machine learning,
 - XnODR and XnIDR improve the performance (i.e., better accuracy, less FLOPS, and parameters) of both lightweight (MobileNetV2) and heavyweight (ResNet50) models.
 
 **BibTex:**
-```{bibtex}
+```markdown
 @article{sun2023xnodr,
   title={Xnodr and xnidr: Two accurate and fast fully connected layers for convolutional neural networks},
   author={Sun, Jian and Fard, Ali Pourramezan and Mahoor, Mohammad H},
