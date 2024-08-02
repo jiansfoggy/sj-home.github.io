@@ -9,7 +9,16 @@ paperurl: 'https://arxiv.org/abs/2402.02262'
 citation: 'Lin, E., Sun, J., Chen, H., & Mahoor, M. H. (2024). Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model. <i>arXiv preprint</i> arXiv:2402.02262. Accepted by IEEE EMBC 2024.'
 ---
 
-- This project is to do SID by RoBERTa-CNN on the online corpus dataset. 
+- This project is to do Suicide Intention Detection (SID) by RoBERTa-CNN on the online corpus dataset. 
 - I guide students to do the entire research. The paper got accepted by IEEE EMBC 2024.
 - We utilized Generative Pre-trained Transformer (GPT) API to clean up the dataset.
 - CONCLUSION: The proposed automatic SID system achieved 98% accuracy compared to the state-of-the-art methods.
+
+```{bibtex}
+@article{lin2024data,
+  title={Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model},
+  author={Lin, Emily and Sun, Jian and Chen, Hsingyu and Mahoor, Mohammad H},
+  journal={arXiv preprint arXiv:2402.02262},
+  year={2024}
+}
+```
