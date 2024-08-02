@@ -9,10 +9,12 @@ slidesurl: 'http://academicpages.github.io/files/MC-ViViT-Poster.pdf'
 location: "Denver, CO"
 ---
 
-[**View poster here**](MC-ViViT-Poster.pdf)
+This presentation is for 2023 Colorado STEM Poster Day.
 
-<object data="../files/MC-ViViT-Poster.pdf" type="application/pdf" width="900px" height="900px">
-    <embed src="http://academicpages.github.io/files/MC-ViViT-Poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://academicpages.github.io/files/MC-ViViT-Poster.pdf">Download Poster</a>.</p>
+**View poster here**
+
+<object data="../files/MC-ViViT-Poster.pdf" type="application/pdf" width="1600px" height="900px">
+    <embed src="../files/MC-ViViT-Poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/MC-ViViT-Poster.pdf">Download Poster</a>.</p>
     </embed>
 </object>

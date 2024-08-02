@@ -9,9 +9,9 @@ slidesurl: 'http://academicpages.github.io/files/SID-Poster.pdf'
 location: "Orlando, FL"
 ---
 
-![**View poster here**](http://academicpages.github.io/files/SID-Poster.pdf)
+**View poster here**
 
-<object data="../files/SID-Poster.pdf" type="application/pdf" width="900px" height="900px">
+<object data="../files/SID-Poster.pdf" type="application/pdf" width="1000px" height="1600px">
     <embed src="../files/SID-Poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/SID-Poster.pdf">Download Poster</a>.</p>
     </embed>
