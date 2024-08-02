@@ -13,7 +13,7 @@ This presentation is for 2023 Colorado STEM Poster Day.
 
 **View poster here**
 
-<object data="../files/MC-ViViT-Poster.pdf" type="application/pdf" width="1600px" height="900px">
+<object data="../files/MC-ViViT-Poster.pdf" type="application/pdf" width="2200px" height="1500px">
     <embed src="../files/MC-ViViT-Poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/MC-ViViT-Poster.pdf">Download Poster</a>.</p>
     </embed>
