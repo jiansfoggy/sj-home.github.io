@@ -11,7 +11,7 @@ location: "Orlando, FL"
 
 **View poster here**
 
-<object data="../files/SID-Poster.pdf" type="application/pdf" width="1200px" height="1600px">
+<object data="../files/SID-Poster.pdf" type="application/pdf" width="1500px" height="1800px">
     <embed src="../files/SID-Poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/SID-Poster.pdf">Download Poster</a>.</p>
     </embed>
