@@ -7,22 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
 Design a new efficient Fully Connected layer XnODR/XnIDR.
 Contribute to detecting Mild Cognitive Impairment by analyzing interview videos.
 Research on referring to video quality during video classification.
 Solve data imbalance issues by creating the loss function or utilizing self-supervised learning.
-Response to writing academic papers and drawing posters.
 
 
-Hi, I am Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver.
+Hi, I am Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver. My research focues on the Deep Learning-based Computer Vision and Natural Language Processing (NLP). In the Computer Vision field, I developed many efficent modules and models. For instance, XnODR/XnIDR are two faster and more accurate Fully Connected layers. MC-ViViT detects Alzheimer's Disease from normal congition efficently by analyzing facial motion in the casual chat video. This is a very good application of affective computing. SSL-V3 refers to the video quality while classifying videos, containing Combined-SSL, a new Self-supervised Learning mechanism. In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task and achieved promising prediction. I prefer to solve the problem at the data level, like data imbalanced issues. 
+
+Current Work
+=============
+
+Working on NLP-based disordered protein function prediction.
+
 **Research Branch of Deep Learing:** Computer Vision; Natural Language Processing.
+
 **Research Direction:** Image and Video Recognition; Representation Learning; Classifier Design; Data Imbalanced Issues; Optimization; Sentence Classification.
+
 **Application:** Affective Computing; Mild Cognitive Impairment Detection; Violence Detection; Protein Function Detection; Suicide Intention Detection.
+
 **Common-used Framework:** PyTorch; Tensorflow [Add photo]
 
 **Common-used Package:** OpenCV, Pytorch Lightning; Numpy; Pandas; Sci-kit Learn; Matplotlib
+
+**Common-used Neural Networks:** Convolutional Neural Networks (ResNet, MobileNet, EfficentNet, etc); Transformers (ViT, ViViT, Swin Transformer, RoBERTa)
 
 News
 =====
@@ -41,12 +49,7 @@ For site content, there is one markdown file for each type of content, which are
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
