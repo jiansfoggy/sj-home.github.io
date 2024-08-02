@@ -12,4 +12,4 @@ location: "Orlando, FL"
 **View poster here**
 <img src="../images/SID-Poster.png" alt="Description" width="1200" height="1600">
 
-[**Download**](../images/SID-Poster.png "SID Poster")
+[**View poster here**](../images/SID-Poster.png "SID Poster")
