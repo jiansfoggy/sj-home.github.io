@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, welcome to my home page!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,10 +9,20 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+Hi, I am Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver.
+**Research Branch of Deep Learing:** Computer Vision; Natural Language Processing.
+**Research Direction:** Image and Video Recognition; Representation Learning; Classifier Design; Data Imbalanced Issues; Optimization; Sentence Classification.
+**Application:** Affective Computing; Mild Cognitive Impairment Detection; Violence Detection; Protein Function Detection; Suicide Intention Detection.
+**Common-used Framework:** PyTorch; Tensorflow [Add photo]
+
+**Common-used Package:** OpenCV, Pytorch Lightning; Numpy; Pandas; Sci-kit Learn; Matplotlib
 
 News
 =====
 
+July 29, 2024: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
+
+July 15 -- 19, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session at July 17.
 
 
 Create content & metadata
