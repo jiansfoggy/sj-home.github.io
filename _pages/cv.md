@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[**View CV here**](../files/JS-CV.pdf){:target="_blank"}
+[**View CV here**](https://github.com/jiansfoggy/sj-home.github.io/tree/master/files/JS-CV.pdf){:target="_blank"}
+
+<a href="https://github.com/jiansfoggy/sj-home.github.io/tree/master/files/JS-CV.pdf" target="_blank">example</a>
+
 
 Education
 ======
