@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[**View CV here**](../files/JS-CV.pdf){:target="_blank"}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
