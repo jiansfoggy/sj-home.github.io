@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[**View CV here**](/files/JS-CV.pdf){:target="_blank"}
+[**View PDF here**](/files/JS-CV.pdf){:target="_blank"}
 
-<a href="../files/JS-CV.pdf" target="_blank">example</a>
+<a href="../files/JS-CV.pdf" target="_blank">View PDF here</a>
 
 
 Education
