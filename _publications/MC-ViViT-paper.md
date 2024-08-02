@@ -22,7 +22,7 @@ Deep learning, Facial expression features, Inter- and intra-class imbalance, Mil
 
 
 **BibTex:**
-```{bibtex}
+```WEB
 @article{sun2024mc,
   title={MC-ViViT: Multi-branch Classifier-ViViT to detect Mild Cognitive Impairment in older adults using facial videos},
   author={Sun, Jian and Dodge, Hiroko H and Mahoor, Mohammad H},
