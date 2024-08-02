@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jian Sun.
+Hi, I am Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver.
+
+**Research Branch of Deep Learing:** Computer Vision; Natural Language Processing.
+
+**Research Direction:** Image and Video Recognition; Representation Learning; Classifier Design; Data Imbalanced Issues; Optimization; Sentence Classification.
+
+**Application:** Affective Computing; Mild Cognitive Impairment Detection; Violence Detection; Protein Function Detection; Suicide Intention Detection.
+
+**Common-used Framework:** PyTorch; Tensorflow [Add photo]
+
+**Common-used Package:** OpenCV, Pytorch Lightning; Numpy; Pandas; Sci-kit Learn; Matplotlib
 
 A data-driven personal website
 ======
