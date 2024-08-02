@@ -22,7 +22,7 @@ Suicide Intention Detection, Natural Language Processing, RoBERTa, CNN, Data Qua
 
 **BibTex:**
 
-```{bibtex}
+```latax
 @article{lin2024data,
   title={Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model},
   author={Lin, Emily and Sun, Jian and Chen, Hsingyu and Mahoor, Mohammad H},
