@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi, welcome to my home page!"
+title: "Welcome to my home page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I am Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver. I received MS in Statistics and BS in Mathematics and Applied Mathematics in 2017 and 2014.
+Hi, this is Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver. I received MS in Statistics and BS in Mathematics and Applied Mathematics in 2017 and 2014.
 
 My research focues on the Deep Learning-based Computer Vision and Natural Language Processing (NLP). My developed models or modules are applicable to many scenarios. For instance, XnODR/XnIDR are two faster and more accurate Fully Connected layers, lightening the CNNs. MC-ViViT detects Alzheimer's Disease from normal congition efficently by analyzing facial motion in the casual chat video. This is a very good application of affective computing. In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task and achieved promising prediction.
 
