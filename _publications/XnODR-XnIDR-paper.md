@@ -20,6 +20,10 @@ CapsNet, XNOR-Net, Dynamic routing, Binarization, Xnorization, Machine learning,
 - We propose a new Fully Connected Layer called XnIDR by xnorizing another linear projection inside the dynamic routing.
 - XnODR and XnIDR improve the performance (i.e., better accuracy, less FLOPS, and parameters) of both lightweight (MobileNetV2) and heavyweight (ResNet50) models.
 
+**Production:** XnODR and XnIDR
+
+**Used Framework:** <img src="https://blog.paperspace.com/content/images/2021/01/0_szgpfwmBY_CuZwP8-2.png" alt="TensorFlow" width="87.1" height="70">
+
 **BibTex:**
 ```markdown
 @article{sun2023xnodr,

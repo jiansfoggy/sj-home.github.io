@@ -20,6 +20,12 @@ Deep learning, Facial expression features, Inter- and intra-class imbalance, Mil
 - We design the MC module to enrich the extracted spatio-temporal features. Its multi-branch structure helps ViViT to capture the visual features from different perspectives.
 - We develop the HP loss by combining Focal loss and AD-CORRE loss. The HP loss addresses the inter- and intra-class imbalanced issues and helps the model pay attention to classes with less samples and subjects with short video lengths.
 
+**Production:** MC-ViViT, Multi-branch Classifier (MC), HP loss
+
+**Used Framework:** <img src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="PyTorch" width="140" height="70">
+
+
+
 **BibTex:**
 ```markdown
 @article{sun2024mc,

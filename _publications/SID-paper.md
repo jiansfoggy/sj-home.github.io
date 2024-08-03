@@ -20,6 +20,10 @@ Suicide Intention Detection, Natural Language Processing, RoBERTa, CNN, Data Qua
 - We find the best text embedding length for the SDD dataset by fine-tuning the relative hyperparameter.
 - We used OpenAI API to clean up the dataset due to the key of data quality in training RoBERTa-CNN.
 
+**Production:** Apply RoBERTa-CNN to do SID
+
+**Used Framework:** <img src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="PyTorch" width="140" height="70">
+
 **BibTex:**
 ```markdown
 @article{lin2024data,
