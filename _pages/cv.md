@@ -60,6 +60,7 @@ Skills
 * **Common-used Framework:** PyTorch, Tensorflow, Keras, PyTorch Lightening [Add photo].
 * **Common-used Package:** Matplotlib, Numpy, OpenCV, Pandas, Pillow, Sci-kit Learn.
 * **Common-used Neural Networks:** Convolutional Neural Networks (ResNet, MobileNet, EfficentNet, etc), Transformers (ViT, ViViT, Swin Transformer, RoBERTa).
+* **Programming Language:**: Python
 
 Service and leadership
 ======================
