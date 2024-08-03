@@ -17,33 +17,24 @@ My current work focuses on NLP-based Disordered Protein Function Detection.
 
 When I am not immersed in research, I enjoy hiking, photography, bodybuilding, and exploring new cuisines.
 
-Feel free to reach out to me at [Jian.Sun86\@du.edu](mailto:Jian.Sun86@du.edu?subject=Test). You can also find more about my work on [Google Scholar](https://scholar.google.com/citations?user=8bq3_mEAAAAJ&hl=en)."
+Feel free to reach out to me at [Jian.Sun86@du.edu](mailto:Jian.Sun86@du.edu?subject=Test). You can also find more about my work on [Google Scholar](https://scholar.google.com/citations?user=8bq3_mEAAAAJ&hl=en).
 
 Current Work
 =============
 
 Working on NLP-based disordered protein function prediction.
 
-Skills
-=======
+LeetCode and Hackerrank Record
+==============================
 
-**Research Branch of Deep Learing:** Computer Vision; Natural Language Processing.
+![LeetCode](https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1)
 
-**Research Direction:** Image and Video Recognition; Representation Learning; Classifier Design; Data Imbalanced Issues; Optimization; Sentence Classification.
+![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png)
 
-**Core Research Problem:** Data Imbalanced; Optimization.
-
-**Application:** Affective Computing; Mild Cognitive Impairment Detection; Violence Detection; Protein Function Detection; Suicide Intention Detection.
-
-**Common-used Framework:** PyTorch; Tensorflow [Add photo]
-
-**Common-used Package:** OpenCV, Pytorch Lightning; Numpy; Pandas; Sci-kit Learn; Matplotlib
-
-**Common-used Neural Networks:** Convolutional Neural Networks (ResNet, MobileNet, EfficentNet, etc); Transformers (ViT, ViViT, Swin Transformer, RoBERTa)
 
 News
 =====
 
-**July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
+* **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
 
-**July 15 -- 19**, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session at July 17.
+* **July 15 -- 19**, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session at July 17.

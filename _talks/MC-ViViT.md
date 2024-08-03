@@ -14,4 +14,6 @@ This presentation is for 2023 Colorado STEM Poster Day.
 **View poster here**
 <img src="../images/MC-ViViT-Poster.png" alt="Description" width="1500" height="1000">
 
+{% comment %}
 [**View poster here**](../images/MC-ViViT-Poster.png "MC-ViViT Poster")
+{% endcomment %}

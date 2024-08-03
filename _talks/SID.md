@@ -14,4 +14,6 @@ This presentation is for IEEE EMBC 2024 and presented at July 17, 2024.
 **View poster here**
 <img src="../images/SID-Poster.png" alt="Description" width="1000" height="1500">
 
+{% comment %}
 [**View poster here**](../images/SID-Poster.png "SID Poster")
+{% endcomment %}
