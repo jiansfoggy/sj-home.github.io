@@ -27,10 +27,7 @@ Working on NLP-based disordered protein function prediction.
 LeetCode and Hackerrank Record
 ==============================
 
-![LeetCode](https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1){height=128px width=128px}
-
-![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png){height=128px width=128px}
-
+<img src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="LeetCode" width="128" height="128"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="HackerRank" width="128" height="128">
 
 News
 =====
