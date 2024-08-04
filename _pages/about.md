@@ -27,9 +27,7 @@ Working on NLP-based disordered protein function prediction.
 LeetCode and Hackerrank Record
 ==============================
 
-[<img src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="LeetCode" width="80" height="80">](https://leetcode.com/u/jiansfoggy/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="HackerRank" width="80" height="80">](https://www.hackerrank.com/profile/jian_sun)
-
-<a href="https://leetcode.com/u/jiansfoggy/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="LeetCode" width="60" height="60"></a> <a href="https://www.hackerrank.com/profile/jian_sun" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="LeetCode" width="60" height="60"></a>
+<a href="https://leetcode.com/u/jiansfoggy/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1020/0*xJCLQQRZv3XFMUd1" alt="LeetCode" width="80" height="80"></a> <a href="https://www.hackerrank.com/profile/jian_sun" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="LeetCode" width="80" height="80"></a>
 
 News
 =====
