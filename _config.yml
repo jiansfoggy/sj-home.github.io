@@ -14,7 +14,7 @@ name                     : &name "Jian Sun"
 description              : &description "personal description"
 url                      : https://jiansfoggy.github.io/sj-home.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/jiansfoggy/sj-home.github.io"
+repository               : "jiansfoggy/sj-home.github.io"
 
 #"academicpages/academicpages.github.io"
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/jiansfoggy/sj-home.github.io"
+  github           : "jiansfoggy/sj-home.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
