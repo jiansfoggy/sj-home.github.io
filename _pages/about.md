@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jian Sun, a Ph.D. candidate in Computer Science program in the University of Denver. I received MS in Statistics and BS in Mathematics and Applied Mathematics in 2017 and 2014.
+Hi, this is Jian Sun, a Ph.D. candidate in the Computer Science program at the University of Denver. I received my MS in Statistics and BS in Mathematics and Applied Mathematics in 2017 and 2014, respectively.
 
-My research focues on the Deep Learning-based Computer Vision and Natural Language Processing (NLP). My developed models or modules are applicable to many scenarios. For instance, XnODR/XnIDR are two faster and more accurate Fully Connected layers, lightening the CNNs. MC-ViViT detects Alzheimer's Disease from normal congition efficently by analyzing facial motion in the casual chat video. This is a very good application of affective computing. In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task and achieved promising prediction.
+My research focuses on Deep Learning-based Computer Vision and Natural Language Processing (NLP). The models and modules I have developed are applicable to various scenarios. For instance, XnODR/XnIDR are two faster and more accurate fully connected layers that lighten CNNs. MC-ViViT efficiently detects Alzheimer's Disease from normal cognition by analyzing facial motion in casual chat videos, a prime example of affective computing. In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task, achieving promising predictions.
 
-My latest proposed model is SSL-V3. Based on MC-ViViT, SSL-V3 refers to the video quality while classifying videos, containing Combined-SSL, a new Self-supervised Learning mechanism. SSL-V3 conducts MCI detection and violence detection efficiently. 
+My latest proposed model is SSL-V3. Based on MC-ViViT, SSL-V3 takes video quality into account while classifying videos and includes Combined-SSL, a new Self-supervised Learning mechanism. SSL-V3 efficiently conducts MCI detection and violence detection.
 
 My current work focuses on NLP-based Disordered Protein Function Detection.
 
@@ -34,4 +34,4 @@ News
 
 * **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
 
-* **July 15 -- 19**, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session at July 17.
+* **July 15 -- 19**, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session on July 17.
