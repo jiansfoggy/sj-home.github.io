@@ -1,0 +1,36 @@
+---
+title: "A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection"
+collection: publications
+permalink: /publication/MCI-review
+excerpt: 'This review paper explores recent advances in deep learning approaches for non-invasive cognitive impairment detection.'
+date: 2024-10-25
+venue: 'IEEE Access'
+paperurl: 'https://arxiv.org/abs/2410.19898'
+citation: 'Alsuhaibani, M., Fard, A. P., Sun, J., Poor, F. F., Pressman, P. S., & Mahoor, M. H. (2024). A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection. arXiv preprint arXiv:2410.19898.'
+---
+
+**Keywords:** 
+
+Alzheimer’s Disease, Cognitive Impairment Detection, Deep Learning Models.
+
+**Contributions:**
+
+- the advantages and limitations of different integrated non-invasive modalities. 
+- review studies that utilized various modalities to propose cognitive impairment detection systems. 
+- comprehensive outline of existing trends and future directions in deep learning methods for cognitive impairment detection. 
+- concluding with the overall impact of these methods on early detection of cognitive decline. 
+- insights into disease progression across large populations.
+
+**Production:** An overview of the diverse data modalities on MCI research.
+
+**Used Framework:** <img src="https://miro.medium.com/v2/resize:fit:512/1*IMGOKBIN8qkOBt5CH55NSw.png" alt="PyTorch" width="140" height="70">
+
+**BibTex:**
+```markdown
+@article{alsuhaibani2024review,
+  title={A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection},
+  author={Alsuhaibani, Muath and Fard, Ali Pourramezan and Sun, Jian and Poor, Farida Far and Pressman, Peter S and Mahoor, Mohammad H},
+  journal={arXiv preprint arXiv:2410.19898},
+  year={2024}
+}
+```
