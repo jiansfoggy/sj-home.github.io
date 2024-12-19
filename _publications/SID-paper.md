@@ -5,7 +5,7 @@ permalink: /publication/SID-paper
 excerpt: 'This project is to do Suicide Intention Detection (SID) by RoBERTa-CNN on the online corpus dataset.'
 date: 2024-07-15
 venue: '46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)'
-paperurl: '[https://arxiv.org/abs/2402.02262](https://ieeexplore.ieee.org/document/10782647)'
+paperurl: 'https://ieeexplore.ieee.org/document/10782647'
 citation: 'E. Lin, J. Sun, H. Chen and M. H. Mahoor, "Data Quality Matters: Suicide Intention Detection on Social Media Posts Using RoBERTa-CNN," 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA, 2024, pp. 1-5, doi: 10.1109/EMBC53108.2024.10782647.'
 ---
 
