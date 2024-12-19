@@ -1,5 +1,5 @@
 ---
-title: "Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN"
+title: "Data Quality Matters: Suicide Intention Detection on Social Media Posts Using RoBERTa-CNN"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/SID
