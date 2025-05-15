@@ -24,6 +24,8 @@ Current Work
 
 Working on NLP-based disordered protein function prediction.
 
+Developing Next-generation Surgical Robotics.
+
 LeetCode and Hackerrank Record
 ==============================
 
@@ -31,6 +33,8 @@ LeetCode and Hackerrank Record
 
 News
 =====
+
+* **January 13, 2025**: Start the new position, Navigation Engineer, at Medtronic. Focus on developing the real-time electromagnetic localization system for Hugo Surgical Robotics.
 
 * **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
 
