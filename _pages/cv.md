@@ -31,6 +31,13 @@ Conferences
 
 Work Experience
 ===============
+* January 2025 - Present: Navigation Engineer
+  * Medtronic
+  * Lafayette, CO
+  * Duties included:
+    * Develop a real-time Electromagnetic Localization System for Hugo Surgical Robotic.
+    * Embed the pre-trained neural network into NVIDIA Jetson Orin Nano.
+ 
 * June 2023 – January 2024: Project Supervisor
   * 2023 Vision and Robotic Lab Summer Research in the University of Denver 
   * Denver, CO                                                             
