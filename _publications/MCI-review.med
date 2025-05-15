@@ -3,10 +3,10 @@ title: "A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairme
 collection: publications
 permalink: /publication/MCI-review
 excerpt: 'This review paper explores recent advances in deep learning approaches for non-invasive cognitive impairment detection.'
-date: 2024-10-25
+date: 2025-03-26
 venue: 'IEEE Access'
-paperurl: 'https://arxiv.org/abs/2410.19898'
-citation: 'Alsuhaibani, M., Fard, A. P., Sun, J., Poor, F. F., Pressman, P. S., & Mahoor, M. H. (2024). A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection. arXiv preprint arXiv:2410.19898.'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10942343'
+citation: 'M. Alsuhaibani, A. Pourramezan Fard, J. Sun, F. Far Poor, P. S. Pressman and M. H. Mahoor, "A Review of Machine Learning Approaches for Non-Invasive Cognitive Impairment Detection," in IEEE Access, vol. 13, pp. 56355-56384, 2025, doi: 10.1109/ACCESS.2025.3555176.'
 ---
 
 **Keywords:** 
@@ -27,10 +27,11 @@ Alzheimer’s Disease, Cognitive Impairment Detection, Deep Learning Models.
 
 **BibTex:**
 ```markdown
-@article{alsuhaibani2024review,
-  title={A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection},
+@article{alsuhaibani2025review,
+  title={A Review of Machine Learning Approaches for Non-Invasive Cognitive Impairment Detection},
   author={Alsuhaibani, Muath and Fard, Ali Pourramezan and Sun, Jian and Poor, Farida Far and Pressman, Peter S and Mahoor, Mohammad H},
-  journal={arXiv preprint arXiv:2410.19898},
-  year={2024}
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
 }
 ```
