@@ -46,4 +46,4 @@ News
 
 * **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
 
-* **July 15 -- 19**, 2024: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session on July 17.
+* **July 15 -- 19, 2024**: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session on July 17.
