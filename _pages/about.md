@@ -34,6 +34,14 @@ LeetCode and Hackerrank Record
 News
 =====
 
+* **August 26, 2025**: Studied and developed a full-stack MLOps workflow to predict user purchase intent using the Amazon Reviews Dataset 2023. [Github](https://github.com/jiansfoggy/4705_Book_Purchase_Intention_Prediction.git)
+
+* **August 22, 2025**: The internship at Medtronic is over today. This position strengthened my skills in data collection, project management, and my presentation skills. Thanks to my supervisor, Dr.Zhao, for inviting me to join the Magneto project and careful guidance. 
+
+* **August 18, 2025**: The intern project is accepted by 2025 44th Annual Medtronic Science & Technology Conference: U.S. Session held on Nov 3, 2025. The project title is "Deep Learning for Enhanced 5DoF Electromagnetic Navigation in Interventional Procedures".
+
+* Deep Learning for Enhanced 5DoF Electromagnetic Navigation in Interventional Procedures
+
 * **January 13, 2025**: Start the new position, Navigation Engineer, at Medtronic. Focus on developing the real-time electromagnetic localization system for Hugo Surgical Robotics.
 
 * **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
