@@ -35,17 +35,21 @@ Work Experience
   * Medtronic
   * Lafayette, CO
   * Duties included:
+    
     **<u>EM Localization</u>**
       1. Developed a real-time deep learning-based Electromagnetic Localization System for catheter-based tasks used in Hugo Surgical Robotic. This system is designed for critical tasks like lung cancer biopsies and cardiac valve placement.
       2. Trained MS-ResNet+MHSA models on HPC clusters and deployed on NVIDIA Jetson Orin Nano with TensorRT acceleration, achieving real-time inference of catheter position and orientation.
       3. The model’s performance is highly competitive with existing methods. The distance error's 25% to 75% quantile is [2.44mm, 5.57mm], and the angle error is 0.49 to 1.22 degrees.
       4. Generated large-scale simulated training data through interpolation, using a base map of electromagnetic field values.
+    
     **<u>3D Cardiac Reconstruction</u>**
       1. Designed a NeRF-based 3D cardiac reconstruction pipeline by analyzing multi-modal data, including Clarius ultrasound image, IMU, optical tracker data, and Computerized Tomography (CT) scan image.
       2. Developed an efficient method for synchronizing the start times of the Clarius probe and optical tracker.
+    
     **<u>Workflow & Conference</u>**
       1. Standardized EM Localization and 3D reconstruction workflows, from model training on HPC to embedded deployment on the  Jetson board, and synchronized data collection.
       2. The work on EM Localization was accepted for an oral presentation at the 2025 44th Annual Medtronic Science & Technology Conference: U.S. Session.
+    
     **<u>Used Skills</u>**
       * **Programming & Libraries**: Python, Bash, Pytorch, TensorRT.
       * **Project Management**: Git (Bitbucket)
@@ -60,6 +64,7 @@ Work Experience
   * Duties included:
     * Supervised a research project using the RoBERTa-CNN model to detect suicidal ideation from social media posts.
     * Guided dataset cleaning, model training, and academic writing; results published in IEEE EMBC 2024 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10782647).
+    
     **<u>Used Skills</u>**
       * **Programming & Libraries**: Python, Bash, Pytorch
       * **Theory & Model**: CNNs, BERTs
@@ -73,6 +78,7 @@ Work Experience
     * Developed deep learning models to analyze visual data of older adults to distinguish Mild Cognitive Impairment from healthy controls.
     * Collaborated with the engineering team to analyze I-CONECT video dataset and integrate the model with other systems (Ryan Apps).
     * Published paper, [MC-ViViT](https://www.sciencedirect.com/science/article/pii/S0957417423024314): Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults Using Facial Videos.
+    
     **<u>Used Skills</u>**
       * **Programming & Libraries**: Python, Bash, Pytorch
       * **Theory & Model**: CNNs, ViViT
