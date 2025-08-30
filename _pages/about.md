@@ -26,8 +26,6 @@ Current Work
 
 Working on NLP-based disordered protein function prediction.
 
-.
-
 LeetCode and Hackerrank Record
 ==============================
 
