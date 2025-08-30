@@ -13,6 +13,8 @@ My research focuses on Deep Learning-based Computer Vision and Natural Language 
 
 My latest proposed model is SSL-V3. Based on MC-ViViT, SSL-V3 takes video quality into account while classifying videos and includes Combined-SSL, a new Self-supervised Learning mechanism. SSL-V3 efficiently conducts MCI detection and violence detection.
 
+My past internship at Medtronic was mainly about developing Next-generation Surgical Robotics, involving two projects: Electromagnetic Localization for Robotic Navigation and 3D Cardiac Reconstruction.
+
 My current work focuses on NLP-based Disordered Protein Function Detection.
 
 When I am not immersed in research, I enjoy hiking, photography, bodybuilding, and exploring new cuisines.
@@ -24,7 +26,7 @@ Current Work
 
 Working on NLP-based disordered protein function prediction.
 
-Developing Next-generation Surgical Robotics.
+.
 
 LeetCode and Hackerrank Record
 ==============================
