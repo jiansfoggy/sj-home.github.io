@@ -13,7 +13,7 @@ Click <a href="../files/JS-CV.pdf" target="_blank">**here**</a> to read PDF file
 
 Education
 =========
-* Ph.D in Computer Science, University of Denver, 2018 -- Present
+* Ph.D in Computer Science, University of Denver, 2025
 * M.S. in Statistics, The George Washington University, 2017
 * B.S. in Mathematics and Applied Mathematics, Shandong Agricultural University, 2014
 
