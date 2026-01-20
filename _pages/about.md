@@ -34,9 +34,9 @@ LeetCode and Hackerrank Record
 News
 =====
 
-* **January 16, 2025**: Academic paper, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, gets accepted by Neural Computing and Applications.
+* **January 16, 2026**: Academic paper, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, gets accepted by Neural Computing and Applications.
 
-* **January 5, 2025**: Start the new position, Postdoctoral Scholar, in the David Geffen School of Medicince at UCLA, focusing on Medical AI.
+* **January 5, 2026**: Start the new position, Postdoctoral Scholar, in the David Geffen School of Medicince at UCLA, focusing on Medical AI.
 
 * **November 18, 2025**: Oral defensed doctoral dissertation, *Addressing the Problems of Data Variations, Quality, and Scarcity in Training Deep Neural Networks*.
 
