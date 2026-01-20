@@ -34,6 +34,14 @@ LeetCode and Hackerrank Record
 News
 =====
 
+* **January 16, 2025**: Academic paper, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, gets accepted by Neural Computing and Applications.
+
+* **January 5, 2025**: Start the new position, Postdoctoral Scholar, in the David Geffen School of Medicince at UCLA, focusing on Medical AI.
+
+* **November 18, 2025**: Oral defensed doctoral dissertation, *Addressing the Problems of Data Variations, Quality, and Scarcity in Training Deep Neural Networks*.
+
+* **November 16, 2025**: Developed web-based Jian's Interview Agent via MLOps. This is a fully AI-driven autonomous product.
+
 * **August 26, 2025**: Studied and developed a full-stack MLOps workflow to predict user purchase intent using the Amazon Reviews Dataset 2023. [Github](https://github.com/jiansfoggy/4705_Book_Purchase_Intention_Prediction.git)
 
 * **August 22, 2025**: The internship at Medtronic is over today. This position strengthened my skills in data collection, project management, and my presentation skills. Thanks to my supervisor, Dr.Zhao, for inviting me to join the Magneto project and careful guidance. 
