@@ -35,6 +35,7 @@ Work Experience
   * Department of Surgery, David Geffen School of Medicine at UCLA
   * Los Angeles, CA
   * Duties included:
+    
     **<u>Feature Fusion Mechanism for Multimodal Learning</u>**
     
     **<u>Research Device Purchase</u>**
