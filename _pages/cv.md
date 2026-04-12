@@ -31,6 +31,19 @@ Conferences
 
 Work Experience
 ===============
+* January 2026 - Present: Postdoctoral Scholar
+  * Department of Surgery, David Geffen School of Medicine at UCLA
+  * Los Angeles, CA
+  * Duties included:
+    **<u>Feature Fusion Mechanism for Multimodal Learning</u>**
+    
+    **<u>Research Device Purchase</u>**
+    1. Extended Reality (XR) device;
+    2. Dry EEG (Electroencephalogram)
+    3. Eye Tracker
+    4. Smart Mirror
+    5. Work Laptop and Server Workstation
+       
 * January 2025 - August 2025: Navigation Engineer
   * Medtronic
   * Lafayette, CO
