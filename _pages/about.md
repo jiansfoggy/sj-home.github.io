@@ -7,15 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jian Sun, a Ph.D. candidate in the Computer Science program at the University of Denver. I received my MS in Statistics and BS in Mathematics and Applied Mathematics in 2017 and 2014, respectively.
+Hi, this is Jian Sun, the current Postdoc in David Geffen School of Medicine at UCLA. 
+I received Ph.D. in Computer Science, MS in Statistics, and BS in Mathematics and Applied Mathematics in 2025, 2017 and 2014, respectively.
 
-My research focuses on Deep Learning-based Computer Vision and Natural Language Processing (NLP). The models and modules I have developed are applicable to various scenarios. For instance, XnODR/XnIDR are two faster and more accurate fully connected layers that lighten CNNs. MC-ViViT efficiently detects Alzheimer's Disease from normal cognition by analyzing facial motion in casual chat videos, a prime example of affective computing. In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task, achieving promising predictions.
+My research focuses on Deep Learning-based Computer Vision and Natural Language Processing (NLP). 
+The models and modules I have developed are applicable to various scenarios. 
+For instance, XnODR/XnIDR are two faster and more accurate fully connected layers that lighten CNNs. 
+MC-ViViT and SSL-V3 efficiently detect Alzheimer's Disease from normal cognition by analyzing facial motion in casual chat videos, a prime example of affective computing.
+Moreover, SSL-V3 takes video quality into account while classifying videos and includes Combined-SSL, a new Self-supervised Learning mechanism. 
+SSL-V3 efficiently conducts MCI detection and violence detection.
+In the NLP field, I utilized RoBERTa-CNN in the Suicide Intention Detection (SID) task, achieving promising predictions.
 
-My latest proposed model is SSL-V3. Based on MC-ViViT, SSL-V3 takes video quality into account while classifying videos and includes Combined-SSL, a new Self-supervised Learning mechanism. SSL-V3 efficiently conducts MCI detection and violence detection.
+My latest proposed model is MT-ProtBERT, aiming to address the data scarcity issue and two intrinsically disordered proteins (IDPs)-related tasks (protein phosphorylation site and protein compaction predictions). 
+MT-ProtBERT comprises Dynamic Window Masking, a Multi-Scale 1D Convolutional classifier (MS-Conv1D), and auxiliary objectives that jointly optimize masked language modeling and biochemistry-informed tasks. 
 
 My past internship at Medtronic was mainly about developing Next-generation Surgical Robotics, involving two projects: Electromagnetic Localization for Robotic Navigation and 3D Cardiac Reconstruction.
 
-My current work focuses on NLP-based Disordered Protein Function Detection.
+My current work focuses on feature fusion and medical AI.
 
 When I am not immersed in research, I enjoy hiking, photography, bodybuilding, and exploring new cuisines.
 
@@ -24,7 +32,8 @@ Feel free to reach out to me at [Jian.Sun86@du.edu](mailto:Jian.Sun86@du.edu?sub
 Current Work
 =============
 
-Working on NLP-based disordered protein function prediction.
+1. Frailty Assessment
+2. Healing Assessment from Open-wound and Close-wound
 
 LeetCode and Hackerrank Record
 ==============================
@@ -34,22 +43,32 @@ LeetCode and Hackerrank Record
 News
 =====
 
-* **January 16, 2026**: Academic paper, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, gets accepted by Neural Computing and Applications.
+<details>
+<summary><strong>2026</strong></summary>
 
-* **January 5, 2026**: Start the new position, Postdoctoral Scholar, in the David Geffen School of Medicince at UCLA, focusing on Medical AI.
+- **March 04, 2026**: Published, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, at Neural Computing and Applications.
+- **January 16, 2026**: Academic paper, *Contrastive Learning-based Video Quality Assessment-jointed Video Vision Transformer for Video Recognition*, gets accepted by Neural Computing and Applications.
+- **January 5, 2026**: Start the new position, Postdoctoral Scholar, in the David Geffen School of Medicine at UCLA, focusing on Medical AI.
 
-* **November 18, 2025**: Oral defensed doctoral dissertation, *Addressing the Problems of Data Variations, Quality, and Scarcity in Training Deep Neural Networks*.
+</details>
 
-* **November 16, 2025**: Developed web-based Jian's Interview Agent via MLOps. This is a fully AI-driven autonomous product.
+<details>
+<summary><strong>2025</strong></summary>
 
-* **August 26, 2025**: Studied and developed a full-stack MLOps workflow to predict user purchase intent using the Amazon Reviews Dataset 2023. [Github](https://github.com/jiansfoggy/4705_Book_Purchase_Intention_Prediction.git)
+- **November 18, 2025**: Oral defensed doctoral dissertation, *Addressing the Problems of Data Variations, Quality, and Scarcity in Training Deep Neural Networks*.
+- **November 16, 2025**: Developed web-based Jian's Interview Agent via MLOps. This is a fully AI-driven autonomous product.
+- **August 26, 2025**: Studied and developed a full-stack MLOps workflow to predict user purchase intent using the Amazon Reviews Dataset 2023. [Github](https://github.com/jiansfoggy/4705_Book_Purchase_Intention_Prediction.git)
+- **August 22, 2025**: The internship at Medtronic is over today. This position strengthened my skills in data collection, project management, and my presentation skills. Thanks to my supervisor, Dr. Zhao, for inviting me to join the Magneto project and careful guidance.
+- **August 18, 2025**: The intern project is accepted by 2025 44th Annual Medtronic Science & Technology Conference: U.S. Session held on Nov 3, 2025. The project title is "Deep Learning for Enhanced 5DoF Electromagnetic Navigation in Interventional Procedures".
+- **January 13, 2025**: Start the new position, Navigation Engineer, at Medtronic. Focus on developing the real-time electromagnetic localization system for Hugo Surgical Robotics.
 
-* **August 22, 2025**: The internship at Medtronic is over today. This position strengthened my skills in data collection, project management, and my presentation skills. Thanks to my supervisor, Dr.Zhao, for inviting me to join the Magneto project and careful guidance. 
+</details>
 
-* **August 18, 2025**: The intern project is accepted by 2025 44th Annual Medtronic Science & Technology Conference: U.S. Session held on Nov 3, 2025. The project title is "Deep Learning for Enhanced 5DoF Electromagnetic Navigation in Interventional Procedures".
+<details>
+<summary><strong>2024</strong></summary>
 
-* **January 13, 2025**: Start the new position, Navigation Engineer, at Medtronic. Focus on developing the real-time electromagnetic localization system for Hugo Surgical Robotics.
+- **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
 
-* **July 29, 2024**: Submit the new paper <i>SSL-V3: Self-Supervised Learning-based No-reference Video Quality Assessment Combined with ViViT for Video Classification</i> to IEEE Transactions on Image Processing.
+- **July 15 -- 19, 2024**: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session on July 17.
 
-* **July 15 -- 19, 2024**: Attend the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024) and present the paper <i>Data Quality Matters: Suicide Intention Detection on Social Media Posts Using a RoBERTa-CNN Model</i> in the poster session on July 17.
+</details>
